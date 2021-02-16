@@ -2,3 +2,6 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .bundle
+/.vs/github-slideshow/config
+/.vs/github-slideshow/v16
+/.vs
